@@ -21,7 +21,7 @@ The Java ATM Application is a `Swing`-based application that provides a user-fri
 
 6. **User-Friendly Interface:** The application is built using Java Swing, providing a simple and intuitive interface for users to interact with.
 
-### Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK)
 - Apache Maven (optional, for building)
@@ -34,7 +34,7 @@ Clone the repository to your local machine:
 ## Getting Started
 Import the project into your preferred Java IDE and run the `ATMApplication.java` file to start the application.
 
-// Sample code snippet for starting the ATM application
+## Sample code snippet for starting the ATM application
 ```java
 public class Main {
     public static void main(String[] args) {
