@@ -47,4 +47,4 @@ Contributions
 Contributions are welcome! Feel free to fork the project and submit pull requests.
 
 Contact
-For any queries, suggestions, or collaboration requests, please contact Swastik Banerjee at swastikbanerjee@gmail.com.
+For any queries, suggestions, or collaboration requests, please contact Swastik Banerjee at swastikbanerjee2001@gmail.com.
