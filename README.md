@@ -1,35 +1,34 @@
-# Java ATM Application
+Java ATM Application
+License
+This project is licensed under the 'MIT License' - see the 'LICENSE' file for details.
+Author
+'Swastik Banerjee'
+Overview
+The Java ATM Application is a 'Swing'-based application that provides a user-friendly interface for performing various banking transactions. It includes features such as 'Deposit Money', 'Withdrawal of Money', 'Mini Statement Generation', 'Fast Cash retrieval', 'Pin Changing Feature', and more.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+Features
+User-friendly Java 'Swing' interface.
+Functionality for 'Deposit', 'Withdrawal', 'Mini Statement Generation', 'Fast Cash retrieval', 'Pin Changing', and more.
+Easily extensible for adding additional features.
 
-## Overview
+Installation
+Clone the repository to your local machine:
 
-This Java Swing application is a simple ATM (Automated Teller Machine) simulation that allows users to perform various banking operations, such as depositing money, withdrawing money, generating mini statements, retrieving fast cash, and changing PINs. The application provides a user-friendly interface for interacting with the ATM functionalities.
+git clone https://github.com/your-username/java-atm-application.git
 
-## Features
+Getting Started
+Import the project into your preferred Java IDE and run the 'ATMApplication.java' file to start the application.
 
-1. **Deposit Money:** Users can deposit money into their account by entering the desired amount.
+// Sample code snippet for starting the ATM application
+public class Main {
+    public static void main(String[] args) {
+        'ATMApplication' atmApp = new 'ATMApplication'();
+        atmApp.run();
+    }
+}
 
-2. **Withdrawal of Money:** Users can withdraw money from their account by specifying the withdrawal amount.
+Contributions
+Contributions are welcome! Feel free to fork the project and submit pull requests.
 
-3. **Mini Statement Generation:** Users can generate a mini statement to view recent transactions and account balances.
-
-4. **Fast Cash Retrieval:** The application offers a fast cash retrieval feature with predefined denominations for quick withdrawals.
-
-5. **Pin Changing Feature:** Users can change their PIN for added security.
-
-6. **User-Friendly Interface:** The application is built using Java Swing, providing a simple and intuitive interface for users to interact with.
-
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK)
-- Apache Maven (optional, for building)
-
-### Build and Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/java-atm-application.git
+Contact
+For any queries, suggestions, or collaboration requests, please contact 'Swastik Banerjee' at 'swastikbanerjee@gmail.com'.
