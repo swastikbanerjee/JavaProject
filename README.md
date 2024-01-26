@@ -1,60 +1,35 @@
-Java ATM Application
-Overview
+# Java ATM Application
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Overview
+
 This Java Swing application is a simple ATM (Automated Teller Machine) simulation that allows users to perform various banking operations, such as depositing money, withdrawing money, generating mini statements, retrieving fast cash, and changing PINs. The application provides a user-friendly interface for interacting with the ATM functionalities.
 
-Features
-Deposit Money: Users can deposit money into their account by entering the desired amount.
+## Features
 
-Withdrawal of Money: Users can withdraw money from their account by specifying the withdrawal amount.
+1. **Deposit Money:** Users can deposit money into their account by entering the desired amount.
 
-Mini Statement Generation: Users can generate a mini statement to view recent transactions and account balances.
+2. **Withdrawal of Money:** Users can withdraw money from their account by specifying the withdrawal amount.
 
-Fast Cash Retrieval: The application offers a fast cash retrieval feature with predefined denominations for quick withdrawals.
+3. **Mini Statement Generation:** Users can generate a mini statement to view recent transactions and account balances.
 
-Pin Changing Feature: Users can change their PIN for added security.
+4. **Fast Cash Retrieval:** The application offers a fast cash retrieval feature with predefined denominations for quick withdrawals.
 
-User-Friendly Interface: The application is built using Java Swing, providing a simple and intuitive interface for users to interact with.
+5. **Pin Changing Feature:** Users can change their PIN for added security.
 
-Getting Started
-Prerequisites
-Java Development Kit (JDK)
-Apache Maven (optional, for building)
-Build and Run
-Clone the repository:
+6. **User-Friendly Interface:** The application is built using Java Swing, providing a simple and intuitive interface for users to interact with.
 
-bash
-Copy code
-git clone https://github.com/your-username/java-atm-application.git
-Navigate to the project directory:
+## Getting Started
 
-bash
-Copy code
-cd java-atm-application
-Build the project (if using Maven):
+### Prerequisites
 
-bash
-Copy code
-mvn clean install
-Run the application:
+- Java Development Kit (JDK)
+- Apache Maven (optional, for building)
 
-bash
-Copy code
-java -jar target/atm-application.jar
-Usage
-Upon launching the application, users will be prompted to enter their account details and PIN.
+### Build and Run
 
-After successful authentication, users can choose from the available options to perform various banking operations.
+1. Clone the repository:
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the application.
-
-Acknowledgments
-The application is built using Java Swing for the graphical user interface.
-Special thanks to [Your Name] for contributing to the project.
-Contact
-For any inquiries or issues, please contact [your-email@example.com].
-
-Happy Banking! 🏦
+   ```bash
+   git clone https://github.com/your-username/java-atm-application.git
